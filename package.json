@@ -2,6 +2,16 @@
   "name": "duck-blog",
   "version": "0.1.0",
   "private": true,
+  "author": {
+    "email": "18561306587@163.com",
+    "name": "Wang Jiabo",
+    "url": "https://github.com/happyduck46"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/happyduck46/duck-blog.git"
+  },
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build"
